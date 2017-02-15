@@ -1,3 +1,5 @@
 This is example for merge conflict
 
-changes made local
+
+changes made online
+
